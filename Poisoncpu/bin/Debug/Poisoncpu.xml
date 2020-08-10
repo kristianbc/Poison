@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Poisoncpu
+</name>
+</assembly>
+<members>
+<member name="T:Poisoncpu.My.Resources.Resources">
+<summary>
+  Třída prostředků se silnými typy pro vyhledávání lokalizovaných řetězců atp.
+</summary>
+</member>
+<member name="P:Poisoncpu.My.Resources.Resources.ResourceManager">
+<summary>
+  Vrací instanci ResourceManager uloženou v mezipaměti použitou touto třídou.
+</summary>
+</member>
+<member name="P:Poisoncpu.My.Resources.Resources.Culture">
+<summary>
+  Potlačí vlastnost CurrentUICulture aktuálního vlákna pro všechna
+  vyhledání prostředků pomocí třídy prostředků se silnými typy.
+</summary>
+</member>
+<member name="P:Poisoncpu.My.Resources.Resources.icons8_close_window_21">
+<summary>
+  Vyhledává lokalizovaný prostředek typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Poisoncpu.My.Resources.Resources.icons8_memory_slot_100">
+<summary>
+  Vyhledává lokalizovaný prostředek typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Poisoncpu.My.Resources.Resources.icons8_minimize_window_21">
+<summary>
+  Vyhledává lokalizovaný prostředek typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Poisoncpu.My.Resources.Resources.icons8_motherboard_100">
+<summary>
+  Vyhledává lokalizovaný prostředek typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Poisoncpu.My.Resources.Resources.icons8_pc_on_desk_100">
+<summary>
+  Vyhledává lokalizovaný prostředek typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Poisoncpu.My.Resources.Resources.icons8_process_32">
+<summary>
+  Vyhledává lokalizovaný prostředek typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Poisoncpu.My.Resources.Resources.icons8_process_50">
+<summary>
+  Vyhledává lokalizovaný prostředek typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Poisoncpu.My.Resources.Resources.icons8_wi_fi_80">
+<summary>
+  Vyhledává lokalizovaný prostředek typu System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
